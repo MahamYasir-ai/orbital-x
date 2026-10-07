@@ -1,0 +1,6 @@
+{
+  "name": "ORBITAL-X | Engineering Beyond the Known",
+  "description": "World-class aerospace, modern robotics, deep-space exploration and dimensional engineering experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
